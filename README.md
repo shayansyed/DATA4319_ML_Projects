@@ -14,4 +14,4 @@ This repository contains the following Machine Learning Algorithms:
 
 [Unsupervised Learning](Unsupervised%20Learning)
   - [K-Means Clustering](Unsupervised%20Learning/K-Means%20Clustering)
-  - [Principle Component Analysis](Unsupervised%20Learning/Principle%20Component%20Analysis)
+  - [Principal Component Analysis](Unsupervised%20Learning/Principal%20Component%20Analysis)
