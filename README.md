@@ -3,7 +3,7 @@
 This repository contains the following Machine Learning Algorithms:
 
 Supervised Learning
-  - Perceptron Learning Algorithm
+  - [Perceptron Learning Algorithm]()
   - Linear Regression
   - Gradient Descent
   - Logistic Regression
